@@ -30,8 +30,8 @@ This project is a clone of the Flipkart homepage created for learning front-end 
 
 ## 👨‍💻 Author
 
-Sai Chandu
+Sai Chandu Harsha Vardhan
 
 BTech CSE (AI & ML) Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/harshanamagiri615-jpg?tab=repositories
